@@ -311,12 +311,4 @@ transmitting the entire 60,000-sample dataset (~47 MB).
 | Comm. Analysis | `communication_analysis.py` | Per-round loss, accuracy, upload KB tracked |
 | Straggler mitigation | `client.py` | Random delay injection + async-ready design |
 
----
 
-## References
-
-1. McMahan, H.B. et al. (2017). *Communication-Efficient Learning of Deep Networks from Decentralised Data.* AISTATS.
-2. Li, T. et al. (2020). *Federated Learning: Challenges, Methods, and Future Directions.* IEEE Signal Processing.
-3. Beutel, D.J. et al. (2020). *Flower: A Friendly Federated Learning Research Framework.* arXiv:2007.14390.
-4. Vepakomma, P. et al. (2018). *Split Learning for Health: Distributed Deep Learning without Sharing Raw Patient Data.* arXiv.
-5. He, C. et al. (2021). *FedML: A Research Library and Benchmark for Federated Machine Learning.* NeurIPS.
